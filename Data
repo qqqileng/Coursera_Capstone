@@ -1,1 +1,6 @@
-The data are acquired through FourSqaure API. 
+The geographical data are acquired through FourSqaure API. Since the API has limitation on number of calls, I will acquire
+additional informatio on crime rate and wifi hotspot through Kaggle, which contains the longitude and latitude information. 
+
+To get the crime rate of a particular area, I will count the number of crime over the area that is close to this spot. In 
+particular, I will count the crimes happend here when the difference between two locations' longitude and latitude is small 
+enough that it is below a certain threshold.
