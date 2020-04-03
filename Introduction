@@ -1,5 +1,5 @@
-The business problem here is to identify a location in New York to recommend someone who are operating a new restaurant business to 
-open a new restaurant. 
+The business problem here is to identify a location in New York to recommend someone who are operating a new Japanese 
+restaurant business to open a new restaurant. 
 
 To prove that this location is a good spot for restaurant, I will first explore the nearby restaurants and get 
 customers' average ratings and tips. if the average is relatively high, I will consider this spot a good location 
