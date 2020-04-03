@@ -1,5 +1,9 @@
-The business problem here is to identify a location to recommend someone who are operating a new restaurant business to open a new restaurant. 
+The business problem here is to identify a location in New York to recommend someone who are operating a new restaurant business to 
+open a new restaurant. 
 
-To prove that this location is a good spot for restaurant, I will first explore the nearby restaurants and get customers' average ratings and tips. if the average is relatively high, I will consider this spot a good location for a new restaurant, since people here tend to give more tips and have great impression on this particular business area. 
+To prove that this location is a good spot for restaurant, I will first explore the nearby restaurants and get 
+customers' average ratings and tips. if the average is relatively high, I will consider this spot a good location 
+for a new restaurant, since people here tend to give more tips and have great impression on this particular business area. 
 
-In order to pick a best one out of several possible choices, I will compare features of different areas and choose the best one.
+In order to pick a best one out of several possible choices, I will compare features of different areas and choose the 
+best one.
